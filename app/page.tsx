@@ -63,7 +63,7 @@ export default function LandingPage() {
                 <img
                   alt="MediLog Dashboard Preview"
                   className="aspect-video overflow-hidden rounded-xl object-cover object-center"
-                  src="/pexels-shvets-production-7545239.jpg"
+                  src="/xoxo.jpg"
                 />
               </div>
             </div>
